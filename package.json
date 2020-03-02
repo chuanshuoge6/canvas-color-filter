@@ -6,8 +6,12 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.1",
     "@testing-library/user-event": "^7.2.1",
+    "antd": "^4.0.0",
+    "file-saver": "^2.0.2",
+    "image-size": "^0.8.3",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
+    "react-grid-system": "^6.2.4",
     "react-scripts": "3.4.0"
   },
   "scripts": {
